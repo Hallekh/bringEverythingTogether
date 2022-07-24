@@ -1,0 +1,15 @@
+#main-footer{
+    text-align: center;
+}
+body{
+    margin: 5px;
+}
+.col-sm{
+    text-align: center;
+    border: 1px solid purple;
+    border-radius: 20%;
+
+}
+.container{
+    margin-top: 5px;
+}
